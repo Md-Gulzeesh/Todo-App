@@ -2,7 +2,7 @@
 This is the Todo App in which you can add your daily tasks to do.
 
 ## Live link of Todo App
-Click here --> _(https://gulzeesh-todo-app.netlify.app/)_
+Click here :point_right::point_right::point_right: _(https://gulzeesh-todo-app.netlify.app/)_
 
 ## Tech Stacks Used
 * Javascript
