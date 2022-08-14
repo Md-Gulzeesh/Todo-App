@@ -7,7 +7,6 @@ Click here :point_right::point_right::point_right: _(https://gulzeesh-todo-app.n
 ## Tech Stacks Used
 * Javascript
 * React Js
-* Figma
 * React Icons
 * Json Server
 * Netlify
@@ -20,4 +19,4 @@ Click here :point_right::point_right::point_right: _(https://gulzeesh-todo-app.n
   * npm i or npm install
   * npm start or npm run start
 
-Enjoy!!!
+	:star_struck:	:star_struck:	:star_struck: Enjoy :star_struck:	:star_struck:	:star_struck:
