@@ -10,6 +10,7 @@ Click here :point_right::point_right::point_right: _(https://gulzeesh-todo-app.n
 * Figma
 * React Icons
 * Json Server
+* Netlify
 
 ## To Run This Project On Local Machine
 * Steps
