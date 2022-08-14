@@ -13,8 +13,8 @@ Click here :point_right::point_right::point_right: _(https://gulzeesh-todo-app.n
 
 ## To Run This Project On Local Machine
 * Steps
-  * clone this repo
-  * open terminal
+  * Clone this repo
+  * Open terminal
   * cd //folder_name
   * npm i or npm install
   * npm start or npm run start
